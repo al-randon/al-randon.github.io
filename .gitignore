@@ -1,0 +1,12 @@
+# File temporanei del sistema operativo
+.DS_Store
+Thumbs.db
+*.local
+
+# File temporanei degli editor (es. VS Code, Vim)
+.vscode/
+*.swp
+*~
+
+# File per le variabili d'ambiente (password/chiavi API)
+.env
